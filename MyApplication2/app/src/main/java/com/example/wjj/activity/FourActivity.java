@@ -12,7 +12,7 @@ import com.example.wjj.base.BaseActivity;
 import java.util.List;
 
 /**
- * Created by wjj on 2016/10/25. 修改了信息
+ * Created by wjj on ffffff 2016/10/25. 脨脼赂脛脕脣脨脜脧垄
  */
 public class FourActivity extends BaseActivity{
 
